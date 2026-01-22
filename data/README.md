@@ -2,7 +2,7 @@
 This folder contains data used in the COVID-19 analysis project.
 
 ## Source
--CDC Open Data Source: COVID-19 Case Surveillance Public Use Data with Geography
+- CDC Open Data Source: COVID-19 Case Surveillance Public Use Data with Geography
 
 ## Notes
 - Raw data files are not included in this repository due to file size.
