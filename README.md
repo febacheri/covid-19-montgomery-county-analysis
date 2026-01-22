@@ -3,17 +3,17 @@ This project explores COVID-19 case and death trends in Montgomery County, Penns
 
 ## Project Structure
 covid19-us-analysis/
-├── data/
-│   ├── montco_covid_cases.csv        # raw line-list dataset
-│   ├── covid_cleaned_montco_pa.rds  # cleaned line-list
-│   └── monthly_counts_montco_pa.rds # monthly aggregated counts
-├── scripts/
-│   ├── 01_data_cleaning.R           # cleaning and aggregation
-│   └── 02_EDA.R                     # exploratory data analysis & plots
-├── figures/
-│   ├── monthly_cases_plot.png
-│   └── monthly_deaths_plot.png
-└── README.md
+data/
+- montco_covid_cases.csv        # raw line-list dataset
+- covid_cleaned_montco_pa.rds  # cleaned line-list
+     monthly_counts_montco_pa.rds # monthly aggregated counts
+- scripts/
+    01_data_cleaning.R           # cleaning and aggregation
+    02_EDA.R                     # exploratory data analysis & plots
+- figures/
+    monthly_cases_plot.png
+    monthly_deaths_plot.png
+- README.md
 
 ## Workflow
 1. Data Cleaning (01_data_cleaning.R)
