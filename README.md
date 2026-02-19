@@ -51,6 +51,6 @@ monthly_counts %>%
 - Visualizations produced with ggplot2
 
 ## Notes
-- This project demonstrates handling a line-list dataset, aggregating to monthly counts, and generating portfolio-ready plots.
+- This project demonstrates handling a line-list dataset, aggregating to monthly counts, and plots.
 - Code is robust and reproducible, using here::here() for file paths and rds files for intermediate outputs.
 - Rolling averages smooth trends for better visualization of epidemic patterns.
