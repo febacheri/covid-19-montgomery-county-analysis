@@ -3,7 +3,7 @@
 #
 # Purpose:
 #   Perform exploratory data analysis on Montgomery County COVID-19 monthly counts
-#   Generate plots of cases, deaths, and rolling averages for portfolio/README
+#   Generate plots of cases, deaths, and rolling averages
 #
 # Input:
 #   data/monthly_counts_montco_pa.rds
